@@ -1,0 +1,372 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Minecraft Roleplay Server - Fall of an Empire – Classes</title><link>https://www.fallofanempire.com/docs/classes/</link><description>Recent content in Classes on Minecraft Roleplay Server - Fall of an Empire</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://www.fallofanempire.com/docs/classes/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Bard</title><link>https://www.fallofanempire.com/docs/classes/bard/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/classes/bard/</guid><description>
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Bard&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bards have a unique combination of abilities, making them extremely versatile. Essentially a bard is a cross between almost all the basic classes. The key function of the Bard is to sing songs on repeat, buffing or healing their party as they choose. They&amp;rsquo;re not the best damage class, but they&amp;rsquo;ll whittle you down as they mez you and run faster than light away.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Class Titles&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;the Minstrel&lt;/p&gt;
+&lt;p&gt;the Troubadour&lt;/p&gt;
+&lt;p&gt;the Virtuoso&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Race Recommendations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Eusebian, Meroei, Valderain, Capriped, Anushi, Undead, Clockwork, Fairy&lt;/p&gt;
+&lt;p&gt;Statistics Recommendations CHA, DEX&lt;/p&gt;
+&lt;p&gt;Guide&lt;/p&gt;
+&lt;p&gt;Legend: AC: armour class; DR: Disease Resistance; CR: Cold Resistance; FR: Fire Resistance; PR: Poison Resistance;MR: Magic Resistance Tick: 6 seconds; DEX: Dexterity; STR: Strenght; STA: Stamina; AGI: Agility; INT: Intelligence; WIS: Wisdom; CHA: Charisma; ATK: Attack.&lt;/p&gt;
+&lt;p&gt;Bards have songs has spells and only some use mana, some repeat to the infinite until you use a new song or an enemy resist a damage song. You can use more than one song at time but only the last one used will repeat while the other will end with the corresponding message in chat that says:&amp;rdquo; &amp;rsquo;s song has come to a close [NameOfTheSong], by finding a good timing between some songs, you can cycle between songs without waiting any time. For example 4 psalms have the duration of 12 seconds and a casting time of 3 seconds, meaning you can cycle between them without waiting.&lt;/p&gt;
+&lt;p&gt;At the start the player would be given 100$, with this money it&amp;rsquo;s advised to buy the tiny dagger from the weaponsmith then to get the low level spell(s) from the spell shop and buying the flute, drum, lute and drums, each of these give useful modifiers when held in the off-hand. After doing that you should be able to kill the low level mobs to get some equipment for your Bard class or other classes, it&amp;rsquo;s reccomended to sell the equipment from other classes so it&amp;rsquo;s faster to get the other spells for the bard class. After farming some money the other spells to buy are the Hymn of restoration and whistling warsong, both are useful buff spells at the start.&lt;/p&gt;
+&lt;p&gt;Bard learns the Dodge skill at lvl 10, this adds a chance to dodge an attack, at lvl 17 the dual wield skill, this adds a chance to attack with the item in the offhand together with the item in the main hand for higher damage, at lvl 24 the safefall skill, this adds a chance to negate totally fall damage, at lvl 58 the riposte skill, this adds a chance to automatically attack after being hit.&lt;/p&gt;
+&lt;p&gt;There are many strategies you can try as a bard, like buffing yourself and going yolo in a dungeon or buffing your group, you can charm mobs to make them battle instead of you (charm doesn&amp;rsquo;t work on bosses) you can even kite mobs by just running around and using aoe spells, this class is one that has the most choices on killing mobs and uses from little to no mana to do this.&lt;/p&gt;
+&lt;p&gt;At lvl 10 start searching for the lvl 10-19 bard shop buying the spells anthem de arms(atk speed +10%, STR+60), boastful bellow, disruptive discord and lucid lullaby(This last one will be effective to all mobs under lvl 31 and it&amp;rsquo;s useful to escape after using it, since mez will be eliminated from the target after hitting it). From the lvl 20-29 shop the spells Psalm of warmth(shield 19 dmg, CR+120 and AC+9), Psalm of Vitality(Shield 19 dmg, DR+129, AC+9), Song of the sirens(This is a useful spell that charms every mob under lvl 37 making it a pet, so after buying this spell you should buy the pet control orb), Consonant chain(decreases movement speed by 140% and atk speed by 40% of the target), Melliflous motion(a useful shadow step for bard, to stop the shadow step you have to type /effects and remove it from the list that appears), Pixie Strike(Mez up to lvl 45). If you are in a group then you should buy the chant of clarity(Regen of 2 mana every tick) and veracious concord spells too.&lt;/p&gt;
+&lt;p&gt;From the lvl 30-39 shop you should buy the spells Curtailing chant(Decreases MR by 29), Amplification(Increases singing skill by 15 and adds 28% of power to all singing spells), Song of sword dancing(DEX+40, chance to decreases 25 DEX from the enemy), psalm of cooling(Shield 19 dmg, FR+120, AC+9), psalm of purity(Shield 19 dmg, PR+120, AC+9), dissension(Mana-60, useful in pvp), verses of Celerity(Atk speed +20%, AGI+60, AC+16), chant of flame(FR-29), bewitching bravura(charms up to lvl 51), there are 2 similar spells chorus of clarity(regen of 7 mana per tick) and cantata of soothing(regen of 4 hp and 5 mana per tick).&lt;/p&gt;
+&lt;p&gt;From the lvl 40-49 shop you should buy the spells anti-magic aria, dreams(mez up to lvl 53), psalm of mystic shielding(Spell shield 19 dmg, MR+120, AC+9, 5 HP regen for tick), chant of disease(DR-29), berserker crescendo(Atk speed +33%, STR+37, AC+16), desperate dirge, provocation(Atk speed+50%, STR+20, ATK+20), chant of frost(CR-29), melody of preservation(STR+10, Spell shield+10, HP regen of 14 per tick), chords of cessation(Decrease atk speed by 25%), shield of songs(Dmg shield+20, Spell shield+20), accelerating chorus(Movement speed +65%). If you&amp;rsquo;re in group with a caster class then it&amp;rsquo;s reccomended to buy the spell Elegy(INT+28, WIS+28) too.&lt;/p&gt;
+&lt;p&gt;From lvl 50+ you have to drop the spell from certain mobs.&lt;/p&gt;
+&lt;p&gt;Now some good lvl 50+ spells are Melody(stackable atk speed+5%), battlecry(stackable atk speed+15%), deftdance discipline, song of high sun(stun of 1 sec for npc and 0.5 for players, dispelling of buffs from the target and teleport them to their homepoint), Inspiration(atk speed +66%, STR+30, ATK+22), chorus of replenishment(HP regen of 18 and Mana regen of 19 per tick), warsong(stackable atk speed +25%), puretone discipline(sing +28), composition(stackable atk speed +10%, AC+13), assonance(decrease atk speed by 40%, 41dmg per tick), ancient: lullaby of shadow(mez up to lvl 59), Ancient:Lament( found on: Garuda&lt;em&gt;avenger Garuda&lt;/em&gt; Rook PureFireAspect Undead_Minion) (effect HP regen of 22 and Mana regen of 23 per tick), song of the storm( chance to deal 75 dmg at each attack), wind of marr(HP regen of 25 and Mana regen of 22 per tick), warsong of zek(atk speed +60%, STR+60, ATK +29, AC+15), melody of mischief(39 dmg per tick and decrease atk speed by 45%), dreams of thule(mez up to lvl 62), psalm of Veeshan(dmg shield+15, All Resistance+80, AC+8), call of flame(increase spell damage by 1% to 15% and stackable atk speed+25%), call of the banshee( charm up to lvl 57), war march of the mastruq(atk speed+60%, STR+50, ATK +30, dmg shiled +20), echo of the trusik(stackable atk speed+25%, increase spell damage by 1% to 25%), dark echo(chance to reflect spellsby 50%), call of the muse(Increase spell damage by 1% to 15% and stackable atk speed+25%), vulka&amp;rsquo;s chant of disease(55 dmg per tick and DR-29), bellow of chaos(128 dmg), luvwen&amp;rsquo;s lullaby(mez up to lvl 70), cantata of life(HP regen 26 and Mana regen 24 per tick), yelhun&amp;rsquo;s mystic call( increase spell damave by 1% to 15% and stackable atk speed+25%), war march of muram( Atk speed+60%, STR+75, ATK40, dmg shield+25), verse of vesagran(Absorb 450 melee damage and 450 spell damage and increase base stats+10), storm blade(chance to deal 100 dmg each attack), eriki&amp;rsquo;s psalm of power(Increase spell damage by 1% to 25% and stackable atk speed+25%), chorus of life( HP regen of 26 and Mana regen of 24 per tick), vulka&amp;rsquo;s chant of flame(55 dmg per tick and FR-29), voice of the vampire(charm up to lvl 68), aura of the muse( Increase spell damage by 1% to 30% and stackable atk speed+25%), arcane aria(chance to deal 200 dmg each attack) ancient: call of power( Increase spell damage by 1% to 30% and stackable atk speed+25%).&lt;/p&gt;
+&lt;p&gt;Bards are great for roleplay, they can sing songs for people and are able to a lot of other great stuff.&lt;/p&gt;</description></item><item><title>Docs: Beastlord</title><link>https://www.fallofanempire.com/docs/classes/beastlord/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/classes/beastlord/</guid><description>
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Beastlord&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Beastlords are the masters of the raw energies of the spirit realm. They can focus these energies into themselves and their warder pets.&lt;/p&gt;
+&lt;p&gt;Beastlords are primarily a melee class, with the ability to wear leather armor or use their bare hands to attack.&lt;/p&gt;
+&lt;p&gt;Beastlords prepare for battle by calling on their animal warder and increasing the creature&amp;rsquo;s natural abilities with spells&lt;/p&gt;
+&lt;p&gt;Beastlords are one of the major 4 pet classes and as such are highly dependent on their companions&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;
+See &lt;a href=&#34;../../spells&#34;&gt;Spells&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Docs: Cleric</title><link>https://www.fallofanempire.com/docs/classes/cleric/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/classes/cleric/</guid><description>
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Cleric&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Clerics are the premier healers. They have very little damage-dealing ability, but none of the other healing classes can even approach their healing supremacy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Class Titles&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;51: the Vicar&lt;/p&gt;
+&lt;p&gt;55: the Templar&lt;/p&gt;
+&lt;p&gt;60: The High Priest&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Passive and Unique Skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bind Wound 70% bonus at level 51&lt;/p&gt;
+&lt;p&gt;Spell Specialisation at level 30&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Statistics Recommendations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;STA WIS STR&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;
+See &lt;a href=&#34;../../spells&#34;&gt;Spells&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Docs: Druid</title><link>https://www.fallofanempire.com/docs/classes/druid/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/classes/druid/</guid><description>
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Druid&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Druids are a nature priest class, and the second best healer in the game to clerics. Druids have a variety of spells that make them very effective at soloing as well as teleporting&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Newbie Guide&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Druids command the power of nature such as wind and lightning. Typically these priests of various nature gods make for excellent adventure party healers&lt;/p&gt;
+&lt;p&gt;Druids are also known for their ability to teleport as well as command the rain at will
+The profession is an ancient one and few know its origins, some believe its advent was most likely the earliest if not at the same time as shamanism&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;
+See &lt;a href=&#34;../../spells&#34;&gt;Spells&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Docs: Enchanter</title><link>https://www.fallofanempire.com/docs/classes/enchanter/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/classes/enchanter/</guid><description>
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Enchanter&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A spell casting class known for their strength at controlling the minds of others. Enchanters are principally known for their ability to mesmerize enemies as well as grant mana regen and other magic boons&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;
+See &lt;a href=&#34;../../spells&#34;&gt;Spells&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Docs: Magician</title><link>https://www.fallofanempire.com/docs/classes/magician/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/classes/magician/</guid><description>
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Magician&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Magicians are masters at summoning and this includes summoning food and water, weapons and armor, and all sorts of useful utility items. They can also summon powerful elemental beings to serve as their pets.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Class Titles&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;the Elementalist&lt;/p&gt;
+&lt;p&gt;the Conjurer&lt;/p&gt;
+&lt;p&gt;the Arch Mage&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Newbie Guide&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The magician is a magic class that is based on the four elements: Fire, Water, Earth and Air. All of their magic is based on one of these elements, for example their elementals. They are the strongest summoning class, this means that they summon strong elemental beings to serve them.&lt;/p&gt;
+&lt;p&gt;Combat:
+The main damage source of magicians is their elemental, you have four types of elementals:
+Fire : Fire elementals have low hp and defense stats, they compensate this with their high damage output. Their ability is a ranged damage spell.
+Water : Water elementals have normal hp, defense and damage stats. Their ability is a ranged damage spell.
+Earth : Earth elementals have high hp and defense stats, their damage is low so they are used as a tank. Their ability is a root, this immobalizes the enemy target. When you use this elemental you should use your own damage spells aswell as the elemental to kill an enemy, otherwise it will take a long time to kill an enemy.
+Air : Air elementals have low hp, defense and damage. Their ability is a stun, this immobalizes the target and stops them from attacking you or your pet for the duration of the stun.&lt;/p&gt;
+&lt;p&gt;The second damage source is their damage spells :
+They have 2 types of damage spells, AOE and single target spells. Their single target spells deal damage to the enemy you target, single target damage spells are used to fight one npc at a time, for example bosses. Their AOE spells deal damage to all or a couple of enemies in the range of the spell, AOE spells are used to kill a group of enemies. if you are for example getting chased by an angry group of orcs AOE spells are great. The damage of these spells will be less than the single target spells so don&amp;rsquo;t expect to oneshot a group of enemies as you might be able to do with a single target spell when you use it on a single target.&lt;/p&gt;
+&lt;p&gt;Magicians also have some buffs for themself or elementals. here is a list of the buffs an magician can use :
+Damage shield : This is a shield magicians can cast on the given type of target, this spell will reduce the damage taken from attacks and deal some damage back to the attacker.
+Shields : This is a normal shield magicians can cast on the given type of target, it will give you some HP and will reduce the damage taken from attacks.
+Buffs for your elemental : These are buffs you can only cast on your elemental, they increase the damage your elemental deals, give them more HP, give them higher defense, make them attack faster, give them special effects on their attacks, increase the HP regen etc.&lt;/p&gt;
+&lt;p&gt;Magicians wear leather gear and use a staff as a weapon, you can get this gear from dungeons but it will take some time to find a full set of gear of your class since the drop rate of gear for your own class is lowered, so the fastest way of getting gear is buying if from other players or doing dungeons with players with another class. If you don&amp;rsquo;t have any money and you can&amp;rsquo;t find anyone to play with you can always craft your own gear.&lt;/p&gt;
+&lt;p&gt;Utility :
+Magicians aren&amp;rsquo;t only for combat, they have other amazing abilities. They can summon Food and water, this will save you and your allies a lot of money. They can summon items that give buffs like invisibility, night vision and even flight. They can summon armor wich will decrease the damage you take, and they can summon jewelry wich gives you buffs to your stats. They also are able to summon strong weapons that have special effects on their attacks. They can also summon ender chests and shulker boxes for their allies. The only downside to the items magicians summoned is that they last untill the next server restart or untill you disconnect, so you summoned an entire set of equipment it is all gone if there is a server restart or if you disconnect.&lt;/p&gt;
+&lt;p&gt;Some important things :
+If you want to summon an elemental you will need a reagent called malachite, you can find this while mining or you can buy it from an jeweler. If you equip gear on an elemental with the /equip pet command you can&amp;rsquo;t get it back.
+Link to spell list : &lt;a href=&#34;https://www.fallofanempire.com/docs/spells/magician/&#34; target=&#34;_blank&#34;&gt;https://www.fallofanempire.com/docs/spells/magician/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You are now ready to play as a mage, if you have any further questions you can always ask other players or staff.&lt;/p&gt;
+&lt;p&gt;Have fun playing !&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Race Recommendations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Any high intelligence race&lt;/p&gt;</description></item><item><title>Docs: Monk</title><link>https://www.fallofanempire.com/docs/classes/monk/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/classes/monk/</guid><description>
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Monk&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Monks are a leather-wearing melee DPS class. They avoid better than any other class, and mitigate passably as well. They are excellent users of blunt based weapons (including fists)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Class Titles&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;51: The Disciple&lt;/p&gt;
+&lt;p&gt;55: The Master&lt;/p&gt;
+&lt;p&gt;60: The Grandmaster&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Passive and Unique Skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bind Wound 70% bonus on reaching 200 skill&lt;/p&gt;
+&lt;p&gt;Dodge at level 1&lt;/p&gt;
+&lt;p&gt;Riposte at level 35&lt;/p&gt;
+&lt;p&gt;Double Attack at level 15&lt;/p&gt;
+&lt;p&gt;Safe Fall at level 3&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;
+See &lt;a href=&#34;../../spells&#34;&gt;Spells&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Docs: Necromancer</title><link>https://www.fallofanempire.com/docs/classes/necromancer/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/classes/necromancer/</guid><description>
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Necromancer&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Necromancers are the masters of death and undeath, and utilize fire, poison, disease, magic and corruption magics to overcome their foes. They also can summon undead pets.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Newbie Guide&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;So you’ve found yourself choosing necromancer. While it’s not the easiest class to play, it’s certainly an interesting one and will be beneficial when you go to solo opponents.&lt;/p&gt;
+&lt;p&gt;The first thing you’re going to want to do on any character is go through the quests in Destin. As you begin your journey, be sure to read all the signs and listen to what the NPCs are telling you to figure out clues about where you need to go and learn useful information. After you finish the quests, you should be about level 5 and ready to go from Destin to Haven. Before you leave, however, you want to make sure you have all your gear as Destin’s shops are a bit more organized.&lt;/p&gt;
+&lt;p&gt;Before you even buy your gear, it’s important to know what necromancers are good at so you can buy the spells you know for certain you’ll need. As a necromancer, your combat ability comes from your damage over time spells (DOT) both poison and disease, your instant damage spells, your pet summon spells, your self-shield and lifetap spells, and the spells that will buff your pet. Your pet is going to be your most important asset going forward so you want to be sure you can summon him before combat. Your DOT spells will deal a significant amount of damage as time goes on, so they’re good for long, drawn out battles. Your shield spells will keep you relatively safe for a brief period of time, though they cannot be used on other people; your instant damage spells are good for whittling people down quickly, but drain your mana just as quick. Another important spell you’ll want to buy is a spell to turn your hit points into mana.&lt;/p&gt;
+&lt;p&gt;As far as gear goes, I recommend spending your money on things that will be useful to you in the near future. While the water breathing, night vision, and invisibility spells are certainly neat, you have a limited amount of money and want to get the most bang for your buck. Thus, I recommend buying your low level pet summon spell (Cavorting Bones), your shield spell (Minor Shielding), your damage over time disease spell (Disease Cloud), your lifetap (Lifetap, takes health from enemies and gives it to you) and any other such combat spells you are able to afford. I also recommend buying a staff as your melee weapon and a shield (you cannot dual wield as a necromancer, so shields are the way to go for extra stats). Finally, after you finish acquiring your spells, you can store them all in your spellbook with /spellbook add to be retrieved at any time (this way your inventory isn’t filled with nothing but books!). A comprehensive list of spells are found below, but if you want to see what they can do you can always go to this website: &lt;a href=&#34;http://everquest.allakhazam.com/db/spelllist.html?name=&amp;amp;type=nec&amp;amp;level=1&amp;amp;opt=And+Higher&amp;amp;expansion=&amp;amp;action=search&#34; target=&#34;_blank&#34;&gt;http://everquest.allakhazam.com/db/spelllist.html?name=&amp;amp;type=nec&amp;amp;level=1&amp;amp;opt=And+Higher&amp;amp;expansion=&amp;amp;action=search&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Once you leave Destin and arrive in Haven, you have two choices: continue to level up in dungeons or go out into the world to begin your roleplay experience. If you wish to begin roleplaying, there is a map of the world at play.fallofanempire.com:8123 to see a view of where people are and what towns they’re in. Keep in mind, your character will not actually have a magical map of the location of everyone at any given time so you’ll have to roleplay out finding them. In order to switch chats, do /ch local or /ch ooc. Local chat is used for roleplay and global is for general talking out of character. If you wish to emote, you can do /me (the things you wish for your character to do). Wandering around to find roleplay can be intimidating, but we don’t bite! And if you have any questions about how to roleplay, the community is more than willing to help incorporate you into their own RP in little ways to get you acquainted.&lt;/p&gt;
+&lt;p&gt;If you decide you want to level up a bit more before venturing out, the map is also useful for dungeon finding (although the low level dungeons will be around Haven for you to stumble into). A list of dungeons and their recommended level ranges can be found pinned on discord under the suggestions channel. If you need a link to join the discord, you can ask anyone in chat or type /motd . Once you find a dungeon you want to go to (at your level, Clan Grimrock or the Vampire Dungeon are probably the way to go), you may decide to make a party (healers are definitely underrated!). To do so, do /group invite name or /group accept. There are plenty of people leveling characters to join up with and older players are usually willing to lend a hand. If you’re going alone, no problem, your pet can certainly keep you company. As this guide has thus far been about how to arrive at this point, I’ll head straight into combat steps.&lt;/p&gt;
+&lt;p&gt;1) Summon and buff your pet. Necromancers thrive on the usage of their pet to avoid any conflict that may go awry and risk killing them instead. While your pet is weak at low levels, your maximum level pet (Child of Rarahat) has 4000 HP and around 120 damage. Once you’ve successfully summoned your pet, you want to give him equipment with /pet equip. You can give your pet armor and weapons this way, but you will not be able to retrieve any of the items you give him, so only equip your pet with items you will not want later! Finally, once your pet is equipped, you want to buff him up before sending him to battle. To do so, you can use the spells Rune of Death and Protection of Calliav (at max level) to give him the best chance at survival.
+2) Buff yourself. While you’re unable to spread the buffs to anyone else, there are certain steps you can take to help yourself. At max level, I use Greater Shielding, Shield of the Arcane, and Shieldskin (though there are many other spells you can use). I also recommend applying your +mana -HP spell in order to regen your mana to continue the fight (spells such as Arch Lich and Seduction of Saryrn).&lt;/p&gt;
+&lt;p&gt;3) Apply your damage over time effects. While you cannot have two of the same type DOT effects on one opponent, you can apply both disease and poison onto your enemy to whittle down their HP over time. While it won’t kill them quickly, 200 damage per tick certainly adds up!&lt;/p&gt;
+&lt;p&gt;4) Send your pet out/heal him. While your pet is smart in his own way, he’s not always the sharpest. For this step, you need to own a pet control orb. Shift left click to target your enemy and right click the orb to send your pet after the enemy. If at any point in time you find your pet in danger of dying, there are spells to bring his HP back up (at max level, Touch of Death). Keep in mind you’ll have to target your pet, detracting your attention from the enemy.&lt;/p&gt;
+&lt;p&gt;5) Use your instant damage spells. While there are many different spells you can use here, it’s best to maximize mana efficiency so you don’t spend your whole manapool on just one enemy.&lt;/p&gt;
+&lt;p&gt;6) Heal yourself if necessary. If you find that your pet has died or the opponent is focusing on you, don’t worry! You buffed yourself up and now you just have to use your lifetap (good thing we bought this earlier, no?). Simply target your enemy and right click and voila, if you don’t fizzle, you’re healed! I recommend Touch of Mujaki at max level. If you find yourself near-dead and want the chance to run away, there’s a little-known spell called Harmshield that will give you invulnerability for just a few seconds (enough to run like mad).&lt;/p&gt;
+&lt;p&gt;7) Whack away. While the enemy should be focused on your pet, this is your chance to put your staff to use and bury this guy. After this step, the enemy should be dead and you’ll come out victorious, of course.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Useful Notes:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1) Shadowstep is the name of a spell to optimize your travel, but you can also die of fall damage. Fly carefully, kiddos.&lt;/p&gt;
+&lt;p&gt;2) Gate is a spell that will take you to where your home is bound. Incredibly useful for avoiding a long return trip.&lt;/p&gt;
+&lt;p&gt;3) If you want to know where a spell is dropped, you can go to the conversations tab of discord and do ?loot name of spell.&lt;/p&gt;
+&lt;p&gt;4) Crafting gear is almost always better than found gear, but takes an incredible amount of time. Luckily for you, there are
+others who have maxed the skill to ask.&lt;/p&gt;
+&lt;p&gt;5) There are AAs (fancy word for a type of skill tree) that you can put xp into with /toggleaa or buy with inspiration (which you get from voting). I recommend waiting until max level to buy these, but then max out your health AAs, casting fury, and other mana AAs.&lt;/p&gt;
+&lt;p&gt;6) To gain inspiration, do /inspiration sites in game. Voting will give you the most consistent inspiration, but you can also receive it as a reward for building dungeons and other such things&lt;/p&gt;
+&lt;p&gt;7) Leveling is not the only way to have power in roleplay! Build a town, create connections, and have fun! It’s not all about fighting.&lt;/p&gt;
+&lt;p&gt;8) To buy higher level necromancer spells, you can travel to Highguard for spells up to level 29.&lt;/p&gt;
+&lt;p&gt;9) You can choose to specialize in a type of magic (alteration, abjuration, etc) with /specialise. For necromancer, I recommend alteration or abjuration (alteration for damaging spells such as DOTs and instant damage, abjuration for buffs and pet summoning). It really all comes down to what you use more often. Specializing will help you level up the skill faster and should thus fizzle less. You can specialize at level 20.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Class Titles&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Level 51: the Heretic&lt;/p&gt;
+&lt;p&gt;Level 55: the Defiler&lt;/p&gt;
+&lt;p&gt;Level 60: the Warlock&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Passive and Unique Skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Riposte Level: 0&lt;/p&gt;
+&lt;p&gt;Doubleattack Level: 0&lt;/p&gt;
+&lt;p&gt;Safefall Level: 0&lt;/p&gt;
+&lt;p&gt;Specialise Level: 20&lt;/p&gt;
+&lt;p&gt;Dualwield Level: 0&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Race Recommendations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Darkelf, Troll, Undead, Asuran, Mysmaal, Caerthian, Highhuman, Meroei&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Statistics Recommendations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DEX and INT + anything with high health or mana&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gear Recommendations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gear you find in dungeons can be really neat, but crafting is definitely the way to go. If you don&amp;rsquo;t feel like leveling crafting, you can always buy from someone or continue in the dungeons. Mythical is the best of gear, but also incredibly rare.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;
+See &lt;a href=&#34;../../spells&#34;&gt;Spells&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Docs: Paladin</title><link>https://www.fallofanempire.com/docs/classes/paladin/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/classes/paladin/</guid><description>
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Paladin&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Paladins are both plate-wearers and tanks. They are a hybrid of clerics and warriors.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Newbie Guide&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Paladins are the ultimate Knight and derive their power from the Light Gods that they worship. The profession is generally a long pilgrimage as a squire under the tutelage of an existing Paladin&lt;/p&gt;
+&lt;p&gt;Paladins are sworn by oath to protect and spread the words of their Gods. Due to this devotion they are often blessed with healing magic and the power to slay Undead&lt;/p&gt;
+&lt;p&gt;Paladins are bitterly opposed to Shadow Knights who they are often at war with&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;
+See &lt;a href=&#34;../../spells&#34;&gt;Spells&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Docs: Ranger</title><link>https://www.fallofanempire.com/docs/classes/ranger/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/classes/ranger/</guid><description>
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Ranger&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rangers are a hybrid between a Druid and a Warrior. Rangers serve a role as light tanks, moderate melee damage and have excellent bow damage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Newbie Guide&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rangers are typically archers who operate in the wild by themselves, they share many traits with Rogues but are exceptional at ranged combat&lt;/p&gt;
+&lt;p&gt;The profession finds itself mostly in the light races but some unexpected races have also adopted the skill after interaction with foreign powers&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Class Titles&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;51: the Pathfinder&lt;/p&gt;
+&lt;p&gt;55: the Outrider&lt;/p&gt;
+&lt;p&gt;60: the Warder&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Passive and Unique Skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Riposte at level 20&lt;/p&gt;
+&lt;p&gt;Double Attack at level 20&lt;/p&gt;
+&lt;p&gt;Dual Wield at level 17&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;
+See &lt;a href=&#34;../../spells&#34;&gt;Spells&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Docs: Rogue</title><link>https://www.fallofanempire.com/docs/classes/rogue/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/classes/rogue/</guid><description>
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Rogue&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Rogues are a premier melee damage class outputting the most melee damage&lt;/p&gt;
+&lt;h3 id=&#34;newbie-guide&#34;&gt;Newbie Guide&lt;/h3&gt;
+&lt;p&gt;Have you ever wanted to see yourself as the damage star of a party and flex your total damage on your friends? Well this is the class for you.&lt;/p&gt;
+&lt;p&gt;This class has the highest melee damage,it can use both daggers and bow, with deadly poisons that deals damage or debuffs(we will talk about these later);&lt;/p&gt;
+&lt;p&gt;Basically you&amp;rsquo;ll start with the iron sword bought from the armorsmith and your damage will be equal to most of the classes or even less in some cases and you&amp;rsquo;ll die a lot instead of other classes, I bet right now you&amp;rsquo;re thinking either &amp;ldquo;Well high damage low defense&amp;rdquo; or &amp;ldquo;Then I&amp;rsquo;ll play another class&amp;rdquo;, well the fact is that rogue at the start just suck, they&amp;rsquo;re less useful than every class but your legend will start at lvl 18 when you can start making poisons now let&amp;rsquo;s look at the graph.
+&lt;img src=&#34;https://user-images.githubusercontent.com/40521706/76663161-7caaa980-6580-11ea-8cc9-5c145d4a4e1e.PNG&#34; alt=&#34;Cattura&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;As you can see at lvl 18 your usefulness becomes important as you&amp;rsquo;ll start becoming the main dps of the group or solo if you don&amp;rsquo;t have one. The higher your level the higher will be your flexing, if for some case you pair up with a healing class you must show your humility by saying to them: &amp;ldquo;I&amp;rsquo;ll show you my might just heal me&amp;rdquo; and shred all the mobs. During your journey most will say that rogue is broken and overpowered, you&amp;rsquo;re entitled to say &amp;ldquo;Rogue and OP are the same word&amp;rdquo; and if someone tries to undermine the rogue power the most appropriate action is saying &amp;ldquo;1v1 me&amp;rdquo;.
+&lt;img src=&#34;https://user-images.githubusercontent.com/40521706/76663758-5dad1700-6582-11ea-84a8-835906b7c27f.jpg&#34; alt=&#34;2h6pgx&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Now let&amp;rsquo;s pass to the equipment, like I said there are two types of daggers: the slashing type and the piercing type. Now with these two types it&amp;rsquo;s gonna be like tinder Slashing is a swipe left while piercing a right swipe, why? because only piercing weapons can use poisons. About bows they&amp;rsquo;re useless for now and for the armour and extra pieces of armour you should choose the ones that have the highest resistances (The resistances are the blue letters on the item I.E. FR, MR, PR, DR, CR)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/40521706/76664043-51758980-6583-11ea-8eff-1377fe39dc75.jpg&#34; alt=&#34;65a0269b3bc48ae29dd2f2e0008911f2&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;At lvl 4 you learn dodge, 12 safefall (negates fall damage) and meditation (increased mana regen),13 dual wield (chance to hit with the item in the second hand),16 double attack (chance to attack again with the weapon in the main hand), 18 make poison (ability to start making poisons), 27 disarm (going to talk about it later) and 30 riposte (chance to counter the attack of the enemy).&lt;/p&gt;
+&lt;p&gt;Sneak for now doesn&amp;rsquo;t work, to pass without aggroing any mob you must not be looked by the mob.&lt;/p&gt;
+&lt;p&gt;This class has few spells at the starter levels the first one you can buy it at level 1 and it&amp;rsquo;s throw stone and bind wound (to work this ability needs bandages in the reagents), the second one it&amp;rsquo;s Elbow strike at lvl 5 and the third one it&amp;rsquo;s backstab at level 10; These spells all deal damage to a target(Except bind wound), Backstab is the spell that deals more damage and can do even more if used while behind the target.
+Then we have focused will discipline at level 10, (in theory you can have only one discipline active but this feature isn&amp;rsquo;t added yet)&lt;/p&gt;
+&lt;p&gt;This spell heals you 3 hp per tick for a total of 30 hp for 10 ticks, the effects gets removed if combat is initiated; then you have at level 20 the spell sneak attack that adds critical chance, hit chance, critical damage and hit damage to an hit, this effect gets randomly triggered so you can have it at the first hit or at the 20th the buff is long 30 seconds and the cooldown of the spell is 30 seconds, after triggering the effect the buff gets removed. then you have disarm at lvl 27 a discipline at lvl 30 and another one to lvl 40.&lt;/p&gt;
+&lt;p&gt;Disarm is a spell that can be used on a target giving the chance to disarm them (the target won&amp;rsquo;t drop the item),The lvl 30 discipline adds 20 to all resistances like Magic resist, while the lvl 40 discipline increases the chance to resists fear spells of the 10000%&lt;/p&gt;
+&lt;p&gt;The lvl 1-10 spells
+* Ezro [x:-2335; z:22]
+* Tanqara [x:-2192; z:-1986]&lt;/p&gt;
+&lt;p&gt;The lvl 10-19 spells
+* Lunathis [x:-3129; z:-2548]
+* Tanqara [x:-2185; z:-2090]&lt;/p&gt;
+&lt;p&gt;The lvl 20-30 spells
+* Denko Utra Depot [x:332; z:-1291]&lt;/p&gt;
+&lt;p&gt;The lvl 30-40 spells
+* Avaris [x:46; z:366]&lt;/p&gt;
+&lt;p&gt;The lvl 40-49 spells
+* Avaris [x:41; z:374]&lt;/p&gt;
+&lt;p&gt;Most of the spells are like sneak attack but with different modifiers, one of the most versatile skill a rogue can have is rogue ploy lvl 61 this skill can mez up to lvl 65 for 30 seconds.&lt;/p&gt;
+&lt;h3 id=&#34;poisons&#34;&gt;Poisons&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://dragon-venom.com/poison/&#34; target=&#34;_blank&#34;&gt;http://dragon-venom.com/poison/&lt;/a&gt;
+&lt;img src=&#34;https://user-images.githubusercontent.com/40521706/76660773-00ad6300-657a-11ea-83b2-d118c5b354d8.PNG&#34; alt=&#34;Cattura2&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Now let&amp;rsquo;s pass on what makes rogue the most op class, the poisons.&lt;/p&gt;
+&lt;p&gt;There are various poisons with various effects but mainly divides into 2 groups: Utility and DPS
+The utility poisons are:
+* Messenger&amp;rsquo;s bane it&amp;rsquo;s made with Larkspur and gives snare (the target won&amp;rsquo;t be able to move)
+* Myrmidon&amp;rsquo;s sloth it&amp;rsquo;s made with Oleander and gives slow (the target movement will be slowed)
+* Quellious trauma it&amp;rsquo;s made with Muscimol and lessens the aggro you have on the mob (Useful in case in a raid you&amp;rsquo;re not supposed to be the tank)
+* Fighter&amp;rsquo;s bane it&amp;rsquo;s made with Caladium and gives clumsy (Lessens the target atk)
+* Warlord&amp;rsquo;s bane it&amp;rsquo;s made with Laburum and gives slow and clumsy
+* Archer&amp;rsquo;s bane it&amp;rsquo;s made with Privit and lessens the hit chance of the target
+* Monk&amp;rsquo;s bane it&amp;rsquo;s made with Delphinium and lessens the dodge chance of the target&lt;/p&gt;
+&lt;p&gt;The DPS potions are :
+* spider&amp;rsquo;s bite it&amp;rsquo;s made with nigrivinter and deals more damage than scorpion&amp;rsquo;s agony
+* scorpion&amp;rsquo;s agony it&amp;rsquo;s made with gormar and deals less damage than spider&amp;rsquo;s bite but generates more aggro, useful if you&amp;rsquo;re the tank of the team.&lt;/p&gt;
+&lt;p&gt;You can only have active one utility poison and one dps poison at time, the messenger&amp;rsquo;s bane won&amp;rsquo;t work on bosses or raid bosses.&lt;/p&gt;
+&lt;p&gt;The poisons have various grades that goes from I(1) to XVIII(18) the grade determines the chance to inflict the poison at hit and the damage too for the DPS poisons.&lt;/p&gt;
+&lt;p&gt;You can start making poisons at lvl 18; a grade I poison is lvl 15 and each grade has a +5 range than the last one I.E. Grade I lvl 15 Grade II lvl 20.&lt;/p&gt;
+&lt;p&gt;As I said before it&amp;rsquo;s possible using poisons only with piercing daggers.&lt;/p&gt;
+&lt;p&gt;You can buy the materials for poisons at:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ezro [x:-2350; z:-4]&lt;/li&gt;
+&lt;li&gt;Tanqara [x:-2193; z:-1994]&lt;/li&gt;
+&lt;li&gt;Lunathis [x:-3162; z:-2558]&lt;/li&gt;
+&lt;li&gt;Denko Utra Depot [x:328; z:-1283]&lt;/li&gt;
+&lt;li&gt;Avaris [x:-1; z:-339]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To make a poison you need to put a vial on your main/off hand and the ingredient in the other hand then type /craft in chat, if you&amp;rsquo;re successful you&amp;rsquo;ll get in chat &amp;ldquo;you fashion the items together to make something new!&amp;rdquo; and get an health potion in your inventory else you&amp;rsquo;ll get &amp;ldquo;your lack of skill resulted in failure&amp;rdquo;. At the start you will fail a lot of times but by levelling up the skill you&amp;rsquo;ll become more successful.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/40521706/76684371-ede36e80-660b-11ea-9955-9b9515c2e91d.png&#34; alt=&#34;2020-03-14_15 50 58&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Inside the red circle there&amp;rsquo;s the ingredient inside the yellow circle there&amp;rsquo;s the vial.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/40521706/76684435-592d4080-660c-11ea-957d-1067ac6034cf.png&#34; alt=&#34;2020-03-14_15 53 46&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/40521706/76684444-6b0ee380-660c-11ea-9931-0a5a887fdd75.png&#34; alt=&#34;2020-03-14_15 53 51&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/40521706/76684455-782bd280-660c-11ea-8024-690d2d81f9b3.png&#34; alt=&#34;2020-03-14_15 54 06&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/40521706/76684483-ad382500-660c-11ea-8769-271d0d995534.png&#34; alt=&#34;2020-03-14_15 58 29&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/40521706/76684683-43207f80-660e-11ea-96e9-ec595a97e8da.gif&#34; alt=&#34;komWWNKI7Dmq19NsuXx16oSuCUU=&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;grade-vial-material-quality&#34;&gt;Grade vial material quality&lt;/h4&gt;
+&lt;p&gt;( I ) Primitive Weak&lt;/p&gt;
+&lt;p&gt;( II ) Crude Grade E&lt;/p&gt;
+&lt;p&gt;( III ) Rough Grade D&lt;/p&gt;
+&lt;p&gt;( IV ) Coarse Grade C&lt;/p&gt;
+&lt;p&gt;( V ) Simple Grade B&lt;/p&gt;
+&lt;p&gt;( VI ) Unrefined Grade A&lt;/p&gt;
+&lt;p&gt;( VII ) Plain Grade AA&lt;/p&gt;
+&lt;p&gt;( VIII ) Unador-ned Concen-trated Grade B&lt;/p&gt;
+&lt;p&gt;( IX ) Refined Concen-trated Grade A&lt;/p&gt;
+&lt;p&gt;( X ) Fine Concen-trated Grade AA&lt;/p&gt;
+&lt;p&gt;( XI ) Etched Refined Grade A&lt;/p&gt;
+&lt;p&gt;( XII ) Embos-sed Refined Grade AA&lt;/p&gt;
+&lt;p&gt;( XIII ) Gold Embos-sed Purified Grade B&lt;/p&gt;
+&lt;p&gt;( XIV ) Platinum Embos-sed Purified Grade A&lt;/p&gt;
+&lt;p&gt;( XV ) Chronal Infused Purified Grade AA&lt;/p&gt;
+&lt;p&gt;( XVI ) Adorned Distilled Grade C&lt;/p&gt;
+&lt;p&gt;( XVII ) Ornate Distilled Grade B&lt;/p&gt;
+&lt;p&gt;( XVIII ) Stylized Distilled Grade A&lt;/p&gt;
+&lt;h3 id=&#34;class-titles&#34;&gt;Class Titles&lt;/h3&gt;
+&lt;p&gt;51: The Rake&lt;/p&gt;
+&lt;p&gt;55: The Blackguard&lt;/p&gt;
+&lt;p&gt;60: The Assassin&lt;/p&gt;
+&lt;h3 id=&#34;passive-and-unique-skills&#34;&gt;Passive and Unique Skills&lt;/h3&gt;
+&lt;p&gt;Bind Wound 70% bonus at level 51&lt;/p&gt;
+&lt;p&gt;Dodge at level 4&lt;/p&gt;
+&lt;p&gt;Riposte at level 30&lt;/p&gt;
+&lt;p&gt;Double Attack at level 16&lt;/p&gt;
+&lt;p&gt;Safe Fall at level 12&lt;/p&gt;
+&lt;p&gt;Sneak at level 1&lt;/p&gt;
+&lt;p&gt;Dual Wield at level 13&lt;/p&gt;
+&lt;p&gt;Make Poison at lvl 18&lt;/p&gt;
+&lt;p&gt;Meditation at lvl 12&lt;/p&gt;
+&lt;p&gt;Disarm at lvl 27&lt;/p&gt;
+&lt;h3 id=&#34;statistics-recommendations&#34;&gt;Statistics Recommendations&lt;/h3&gt;
+&lt;p&gt;The main stats for rogue are STR AGI and DEX, STR it&amp;rsquo;s used to calculate the damage the rogue does, AGI to calculate the dodge chance and extra AC while DEX for the bow damage, chance to all procs I.E. poison proc, dualwield proc, double attack proc ecc.
+But one important stat for rogue is STA, it can be get higher either by special items or by using charms, for more information about charms look in the crafting then tinkering section. That&amp;rsquo;s all you need to know as a new rogue.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;
+See &lt;a href=&#34;../../spells&#34;&gt;Spells&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Docs: Shaman</title><link>https://www.fallofanempire.com/docs/classes/shaman/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/classes/shaman/</guid><description>
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Shaman&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Shamans are one of the three healer classes and have various party utility spells to greatly buff melees and poison their enemies&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Newbie Guide&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As a Shaman, you will be able to rely on yourself for heals and food. Shamans are also good for buffing stats and speed. When getting started as a shaman, keep in mind that in Haven, there are several low-level heals that you should buy from the vendors to get started. Make sure to purchase summon food, light healing, and minor healing. Additionally, there will be a vendor who sells shaman buff spells. Purchase as many of these as possible. Once you have leveled past the spells in Haven, go to Arnar&amp;rsquo;s shaman guild to get spells up to level 49. They will help your way to maximum level.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Class Titles&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The oracle The mystic (insert final title)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Passive and Unique Skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Level 15 Dodge&lt;/p&gt;
+&lt;p&gt;Level 30 Specialise&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Race Recommendations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Taxicost, Tailless, Troll&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Statistics Recommendations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;High Stamina and Agility&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gear Recommendations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;High Magic resistance&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lore&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Shamans are similar to Clerics in a more tribal sense. They may be seen as heretics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;
+See &lt;a href=&#34;../../spells&#34;&gt;Spells&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Docs: Warrior</title><link>https://www.fallofanempire.com/docs/classes/warrior/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/classes/warrior/</guid><description>
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Warrior&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Warriors are a pure melee-based, plate-wearing tank class. They are found at the frontlines of battle, going toe-to-toe with their enemies while other party members contribute without suffering enemy wrath.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Newbie Guide&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Warriors are a profession that is specifically centered around melee combat&lt;/p&gt;
+&lt;p&gt;Typically mercenaries or the main force of a land army due to their low expense&lt;/p&gt;
+&lt;p&gt;Warriors are reliable, fierce and have been a mainstay of defense for most races on Solinia since the Lost Age&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Class Titles&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;51: the Champion&lt;/p&gt;
+&lt;p&gt;55: the Myrmidon&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Passive and Unique Skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bind Wound 70% bonus at level 51&lt;/p&gt;
+&lt;p&gt;Dodge at level 5&lt;/p&gt;
+&lt;p&gt;Double Attack at level 15&lt;/p&gt;
+&lt;p&gt;Riposte at level 15&lt;/p&gt;
+&lt;p&gt;Dual Wield at level 13&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Race Recommendations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Statistics Recommendations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;STA STR AGI&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;
+See &lt;a href=&#34;../../spells&#34;&gt;Spells&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Docs: Wizard</title><link>https://www.fallofanempire.com/docs/classes/wizard/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/classes/wizard/</guid><description>
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Wizard&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Newbie Guide&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The wizard profession is one of mastery over Arcane magics. This would include usually Fire and Ice and Magic itself
+Most wizards learn their practice from other masters who of the art and often are patrons of Mariana, the Goddess of Magic&lt;/p&gt;
+&lt;p&gt;Wizards are able to unleash exceptional damage on their foes but are extremely weak in combat, due to this reason they often travel with a party for which they are appreciated due to their ability to Translocate&lt;/p&gt;
+&lt;p&gt;Wizard is a caster class, this means that you are able to use strong magic spells wich can deal damage to enemies shield you or do other usefull things.&lt;/p&gt;
+&lt;p&gt;Combat: The main damage source of a wizard is their spells, they deal a certain amount of damage to your target when you finish casting them. there are 3 versions of the damage spell: the single target damage spells, these spells do damage to the npc you have as your target. The aoe (Area of effect) damage spell, these spells do damage to your target and the other players or npcs in the range. The dot (Damage over time) damage spell these spells do damage to your target over some time.&lt;/p&gt;
+&lt;p&gt;Wizards are able to use shield spells wich increase your hp and defences. You are also able to root your targets, this prevents them from moving but they are still able to attack.&lt;/p&gt;
+&lt;p&gt;The strenghts of a wizard are their high damage they get from their spells, the ability to shadowstep and the ability to teleport (This is only for the high levels)&lt;/p&gt;
+&lt;p&gt;The weaknesses of wizards are their low hp and melee damage, this makes them vulnerable to melee attacks.
+Shadowstep is a spell that teleports you to the block you are looking at with a set range increasing with the strength of your spell.&lt;/p&gt;
+&lt;p&gt;Remember:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Root your target so your weakness cannot be exploited&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Then destroy your target from a distance&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Utility: As a wizard you unlock teleportation spells at high levels, these spells will teleport you / your group to a certain location on the map, this can be really usefull for travelling to dungeons or cities.&lt;/p&gt;
+&lt;p&gt;Roleplay: Wizards are magic users so make use of that in your roleplay. For example: they are able to create fire. They are able to use all their spells in roleplay, so you can become invisible, you are able to teleport and you are able to shadowstep. this can be fun to use in roleplay.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;
+See &lt;a href=&#34;../../spells&#34;&gt;Spells&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

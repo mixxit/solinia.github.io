@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Items</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-size: 20px;
+            padding: 20px;
+        }
+        .orange {
+            color: orange;
+        }
+    </style>
+</head>
+<body>
+<div id="root"></div>
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script>
+    const orange = t => `<span class="orange">${t}</span>`;
+    const api = 'items';
+    const id = window.location.href.toLowerCase().split('itemid=').pop();
+    $.getJSON(`${api}/${id}.json`)
+        .done(data => {
+            const html = `
+                - id: ${orange(data.id)} basename: ${orange(data.basename)} - minlevel: ${orange(data.minLevel)} <br/>
+                - displayname: ${orange(data.displayname)} tier: ${orange('XXX')} <br/>
+                - lastupdated: ${orange(data.lastUpdatedTime)} appearanceid: ${orange(data.appearanceId)} <br/>
+                - worth: ${orange(data.worth)} placeable: ${orange(data.placeable)} <br/>
+                - color (blooktype): ${orange(data.color)} dye (armour color): ${orange(data.dye)} <br/>
+                - requiredweaponskilltype: ${orange(data.requiredWeaponSkillType)} <br/>
+                - leatherrgbdecimal: ${orange(data.leatherRgbDecimal)}NONE See: https://bit.ly/2i01I8k <br/>
+                - reagent: ${orange(data.reagent)} <br/>
+                - temporary: ${orange(data.isTemporary)} - consumable: ${orange(data.isConsumable)} <br/>
+                - consumeablerequirenotquestflag: ${orange(data.consumableRequireNotQuestFlag)} <br/>
+                - consumeablerequirequestflag: ${orange(data.consumableRequireQuestFlag)} <br/>
+                - bandage: ${orange(data.bandage)} languageprimer: ${orange(data.languagePrimer)} <br/>
+                - augmentation: ${orange(data.isAugmentation)} <br/>
+                - discoverer: ${orange(data.discoverer)} - artifact: ${orange(data.artifact)} Found: (false)<br/>
+                ------------------------------------------ <br/>
+                - acceptsaugmentationslottype: ${orange('XXX')}<br/>
+                - augmentationfitsslottype: ${orange(data.augmentationFitsSlotType)}<br/>
+                ------------------------------------------ <br/>
+                - hpregen: ${orange(data.hpregen)} - mpregen: ${orange(data.mpregen)}<br/>
+                - ac: ${orange(data.hpregen)} - hp: ${orange(data.mpregen)} - mana: ${orange(data.mana)}<br/>
+                - damage: ${orange(data.damage)} - weapondelay: ${orange(data.weaponDelay)} baneundead: ${orange(data.baneUndead)} <br/>
+                - abilityid: ${orange(data.abilityid)} <a href="https://www.fallofanempire.com/data/spell.htm?spellid=${data.abilityid}">[click]</a> - weaponabilityid: ${orange(data.weaponabilityid)} <a href="https://www.fallofanempire.com/data/spell.htm?spellid=${data.weaponabilityid}">[click]</a> focuseffectid: ${orange(data.focusEffectId)} <a href="https://www.fallofanempire.com/data/spell.htm?spellid=${data.focusEffectId}">[click]</a><br/>
+                - attackspeedpct: ${orange(data.attackspeed)}% - procrate: ${orange(data.procRate)} <br/>
+                - strength: ${orange(data.strength)} - stamina: ${orange(data.stamina)} - agility: ${orange(data.agility)} - dexterity: ${orange(data.dexterity)} <br/>
+                - intelligence: ${orange(data.intelligence)} - wisdom: ${orange(data.wisdom)} - charisma: ${orange(data.charisma)} <br/>
+                - MR: ${orange('XXX')} CR: ${orange('XXX')} FR: ${orange('XXX')} DR: ${orange('XXX')} PR: ${orange('XXX')} <br/>
+                ------------------------------------------ <br/>
+                - skillmodtype: ${orange(data.skillModType)} skillmodvalue: ${orange(data.skillModValue)} <br/>
+                - skillmodtype2: ${orange(data.skillModType2)} skillmodvalue2: ${orange(data.skillModValue2)} <br/>
+                - skillmodtype3: ${orange(data.skillModType3)} skillmodvalue3: ${orange(data.skillModValue3)} <br/>
+                - skillmodtype4: ${orange(data.skillModType4)} skillmodvalue4: ${orange(data.skillModValue4)} <br/>
+                ------------------------------------------ <br/>
+                - equipmentslot: ${orange(data.equipmentSlot)} <br/>
+                - itemtype: ${orange(data.itemType)} <br/>
+                ------------------------------------------ <br/>
+                - identifymessage: ${orange(data.identifyMessage)} <br/>
+                - bookauthor: ${orange(data.bookAuthor)} <br/>
+                - allowedclassnames: ${orange(data.allowedClassNames.join(',').trim())} <br/>
+                - allowedracenames: ${orange(data.allowedRaceNames.join(',').trim())} <br/>
+                `;
+            $('#root').html(html);
+        })
+        .fail(resp => {
+            if (resp.status === 404)
+                $('#root').html(`File not found.`);
+        });
+</script>
+</body>
+</html>

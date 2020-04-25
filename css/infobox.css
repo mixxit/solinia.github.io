@@ -1,0 +1,51 @@
+table.infobox {
+    float: right;
+    border: 1px solid silver;
+    display: block;
+    font-size: 89%;
+    max-width: 300px;
+    margin-left: 10px;
+}
+
+table.infobox tr, table.infobox td {
+	box-sizing: border-box;
+}
+
+table.infobox td img {
+	max-width: 100%;
+    height: auto;
+}
+
+table.infobox th {
+	font-size: 120%;
+    padding: 1em;
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+
+
+@media (max-width: 600px) {
+	table.infobox {
+	    border: 1px solid silver;
+	    width: 80% !important;
+	    margin: 0 auto;
+	}
+
+	table.infobox tr {
+	    width: 100%;
+	    display: block;
+	}
+
+	table.infobox tbody {
+	    width: 100%;
+	    display: block;
+	}
+
+	table.infobox tr td {
+	    /*display: block;*/
+	    width: 50% !important;
+	    display: inline-block;
+	}
+}
+
