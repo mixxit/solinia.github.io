@@ -19,10 +19,12 @@
 <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script>
     const orange = t => `<span class="orange">${t}</span>`;
-    const api = 'items';
+    const api = 'https://api.github.com/repos/mixxit/solinia-data/contents/static/data/items';
     const id = window.location.href.toLowerCase().split('itemid=').pop();
-    $.getJSON(`${api}/${id}.json`)
-        .done(data => {
+    $.getJSON(`${api}/${id}.json?ref=master`)
+        .done(d => {
+            const b64 = d.content;
+            const data = JSON.parse(atob(b64));
             const html = `
                 - id: ${orange(data.id)} basename: ${orange(data.basename)} - minlevel: ${orange(data.minLevel)} <br/>
                 - displayname: ${orange(data.displayname)} tier: ${orange('XXX')} <br/>
