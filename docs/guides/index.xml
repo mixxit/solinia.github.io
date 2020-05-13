@@ -253,7 +253,83 @@ Level(s), Item(s)
 A character being revived by their own god will pay a smaller price compared to that of a character being revived by a god not of their faith.
 Non-Religious characters will pay steeper prices, And Characters of opposing faiths may not receive revival at all.
 A character with higher faith/worship of their god will have improved chances and lower costs of revival.&lt;/p&gt;
-&lt;/blockquote&gt;</description></item><item><title>Docs: Tutorial for Tutorial</title><link>https://www.fallofanempire.com/docs/guides/tutorialfortutorial/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/guides/tutorialfortutorial/</guid><description>
+&lt;/blockquote&gt;</description></item><item><title>Docs: Statistics</title><link>https://www.fallofanempire.com/docs/guides/statistics/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/guides/statistics/</guid><description>
+&lt;h1 id=&#34;primary-stats&#34;&gt;Primary Stats&lt;/h1&gt;
+&lt;p&gt;There is no one perfect way to set up an individual character class. Much of it depends on your playing style, your preferences and the decision you make as to how you want your character to make his or her way through the world. Below are the basic descriptions of how the stats affect the characters.&lt;/p&gt;
+&lt;p&gt;##Strength (STR)&lt;/p&gt;
+&lt;p&gt;Affects: Attack Power (see &amp;ldquo;ATK&amp;rdquo;), Weight Limit, Bow Damage&lt;/p&gt;
+&lt;p&gt;*Max (hard-cap): 255&lt;/p&gt;
+&lt;p&gt;Strength is a valuable stat for melee and tank characters to increase both their max and average hit of white damage.&lt;/p&gt;
+&lt;p&gt;##Stamina (STA)&lt;/p&gt;
+&lt;p&gt;Affects: Hit Points (see &amp;ldquo;HP&amp;rdquo;), Endurance (see &amp;ldquo;ENDR&amp;rdquo;), and Swimming Breath.&lt;/p&gt;
+&lt;p&gt;*Max (hard-cap): 255&lt;/p&gt;
+&lt;p&gt;Stamina is very valuable for tanks to increase maximum hit points. It&amp;rsquo;s also somewhat valuable to other classes for the same reason.&lt;/p&gt;
+&lt;p&gt;##Agility (AGI)&lt;/p&gt;
+&lt;p&gt;Affects: [[Dodge]] skill up rate, [[Defense]] skill up rate, Avoidance Armor Class, [[Parry]] skill up rate, Run speed (below 75).&lt;/p&gt;
+&lt;p&gt;*Max (hard-cap): 255&lt;/p&gt;
+&lt;p&gt;Agility influences the ability of an enemy to hit you. Above 75, the AC provided for each Agility is slight. Below 75 agility causes a large AC hit. For example, on a level 60 ogre SK, going from 76 to 85 AGI provides 3 AC. But going from 66 to 75 AGI provides 45 AC.&lt;/p&gt;
+&lt;p&gt;##Dexterity (DEX)&lt;/p&gt;
+&lt;p&gt;Affects: [[Bard]] [[Song]] missed notes; Melee skill-ups, [[Proc]]s, [[Crit]]s .&lt;/p&gt;
+&lt;p&gt;*Max (hard-cap): 255&lt;/p&gt;
+&lt;p&gt;This determines how often you crit with your weapons, how quickly you learn weapon and rogue skills, and how often a magic weapon will process its skill. This is a good skill to have for fighters, especially warriors, rangers, rogues and of only limited use for magic users.&lt;/p&gt;
+&lt;p&gt;##Wisdom (WIS)&lt;/p&gt;
+&lt;p&gt;Affects: Caster mana amount (mana pool) for [[Cleric]]s, [[Paladin]]s, [[Druid]]s, [[Shaman]]s and [[Ranger]]s. Conditionally determines how fast magic skills increase.&lt;/p&gt;
+&lt;p&gt;*Max (hard-cap): 255
+*Soft-cap: 200&lt;/p&gt;
+&lt;p&gt;##Intelligence (INT)&lt;/p&gt;
+&lt;p&gt;Affects: Caster mana amount (mana pool) for [[Necromancer]]s, [[Magician]]s, [[Enchanter]]s, [[Wizard]]s, [[Shadowknight]]s &amp;amp; [[Bard]]s*. Determines how fast magic skills increase.&lt;/p&gt;
+&lt;p&gt;*Max (hard-cap): 255
+*Soft-cap: 200&lt;/p&gt;
+&lt;p&gt;##Charisma (CHA)&lt;/p&gt;
+&lt;p&gt;Affects: [[Charm]]ing (ENC/BRD only) ; Merchant prices ; Increases success rate of a secondary check on the [[Lull]] line of spells which causes target aggro when failed [&lt;a href=&#34;http://everquest.allakhazam.com/forum.html?forum=1&amp;amp;mid=110007699250653295&#34; target=&#34;_blank&#34;&gt;http://everquest.allakhazam.com/forum.html?forum=1&amp;amp;mid=110007699250653295&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;*Max (hard-cap): 255&lt;/p&gt;
+&lt;h1 id=&#34;secondary-stats&#34;&gt;Secondary Stats&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;##Armor Class (AC)&lt;/dt&gt;
+&lt;/dl&gt;
+&lt;p&gt;:&amp;ldquo;See also: [[Skill Defense]]&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Armor Class as a whole is divided into two parts. The first determining how hard you get hit and the other when you will be hit.&lt;/p&gt;
+&lt;p&gt;The first part of the AC is &amp;ldquo;mitigation AC&amp;rdquo; which is calculated from the worn AC you gain from your gear, Defense skill, and it is assumed spells.&lt;/p&gt;
+&lt;p&gt;The other part of AC is the &amp;ldquo;avoidance AC&amp;rdquo; which is defined by your Defense skill and your AGI stat.&lt;/p&gt;
+&lt;p&gt;Max (cap): None&lt;/p&gt;
+&lt;p&gt;Soft-cap (raw ac/worn ac): Level * 6 + 25 This only applies to characters level 50 or below.&lt;/p&gt;
+&lt;p&gt;##Attack Power (ATK)&lt;/p&gt;
+&lt;p&gt;Attack, is a statistic used to compare against an opponent&amp;rsquo;s AC. It is based on your Weapon Skills and Offense. While these are two parts of a whole they do differing things independently. Weapon skills will determine if you miss an opponent and Offense increases your to-hit in theory.&lt;/p&gt;
+&lt;p&gt;When compared against an opponent&amp;rsquo;s Mitigation AC it is further added to by the Strength stat and +ATK mods on items or from spells.&lt;/p&gt;
+&lt;p&gt;Max (cap): None&lt;/p&gt;
+&lt;p&gt;##Hit Points (HP)&lt;/p&gt;
+&lt;p&gt;Sometimes known as &amp;ldquo;health&amp;rdquo;, a player&amp;rsquo;s HP determines how much damage you can sustain before dying.&lt;/p&gt;
+&lt;p&gt;Max (cap): None&lt;/p&gt;
+&lt;p&gt;Hit points can be increased directly through +HP gear, or indirectly through +STA gear, or temporarily through HP enhancing spells like the [[Cleric]]&amp;rsquo;s symbol line and the [[Shaman]]&amp;rsquo;s talisman line of spells.&lt;/p&gt;
+&lt;p&gt;##Mana (MANA)&lt;/p&gt;
+&lt;p&gt;A player&amp;rsquo;s mana pool determines how many spells you can cast. Mana is increased directly through equipment, through WIS for priests, rangers and paladins, and through INT for casters, shadowknights and bards.&lt;/p&gt;
+&lt;p&gt;Max (cap): None&lt;/p&gt;
+&lt;p&gt;There are [[Buff_Lines#Mana_Regeneration| many spells]] that enhance the rate of mana regeneration, which are always prized by casters. There is also a [[Buff_Lines#Mana| single Enchanter line of spells]] that increases maximum mana directly, and [[Buff_Lines#Intelligence| another Enchanter line]] to increase Intelligence, as well as [[Buff_Lines#Wisdom| two spell lines]] which increase Wisdom, and both will increase mana indirectly.&lt;/p&gt;
+&lt;p&gt;##Endurance (ENDR)&lt;/p&gt;
+&lt;p&gt;Affects: Jumping, Disciplines.&lt;/p&gt;
+&lt;p&gt;Endurance determines how long you can perform strenuous activities before becoming fatigued.&lt;/p&gt;
+&lt;p&gt;##Resists&lt;/p&gt;
+&lt;p&gt;A player&amp;rsquo;s resistances determine the chance for negative spells to be resisted by the player and the damage they deal. The resistance type being checked is determined by the specific spell that is being cast. Resistances can be raised or lowered through beneficial or harmful spells and certain gear.&lt;/p&gt;
+&lt;p&gt;The five resists types are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Poison&lt;/li&gt;
+&lt;li&gt;Magic&lt;/li&gt;
+&lt;li&gt;Disease&lt;/li&gt;
+&lt;li&gt;Fire&lt;/li&gt;
+&lt;li&gt;Cold&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#Tertiary statistics==&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;##Damage Per Second (DPS)&lt;/dt&gt;
+&lt;/dl&gt;
+&lt;p&gt;:&amp;ldquo;See also: [[Haste Guide]]&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Affects: Melee &amp;amp; Caster Damage dealt over time; Weapon Ratio.&lt;/p&gt;
+&lt;h2 id=&#34;weapon-ratio&#34;&gt;Weapon Ratio&lt;/h2&gt;
+&lt;p&gt;Affects: DPS&lt;/p&gt;
+&lt;p&gt;Formula: (Weapon Damage / Weapon Delay) = Ratio&lt;/p&gt;
+&lt;p&gt;Example: (18 / 27) = 0.666 DPS&lt;/p&gt;
+&lt;p&gt;#Credits&lt;/p&gt;
+&lt;p&gt;Big thanks to the P99 wiki for this&lt;/p&gt;</description></item><item><title>Docs: Tutorial for Tutorial</title><link>https://www.fallofanempire.com/docs/guides/tutorialfortutorial/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/guides/tutorialfortutorial/</guid><description>
 &lt;p&gt;Since the tutorial is for Adventurers, this guide will assume you have spoke to the Adventurer NPC and entered the Tutorial&lt;/p&gt;
 &lt;p&gt;This guide is for new players who are struggling with the tutorial&lt;/p&gt;
 &lt;p&gt;You must have the MOD to complete this guide &lt;a href=&#34;https://www.fallofanempire.com/docs/guides/mod/&#34; target=&#34;_blank&#34;&gt;https://www.fallofanempire.com/docs/guides/mod/&lt;/a&gt;&lt;/p&gt;
