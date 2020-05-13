@@ -112,13 +112,16 @@
 &lt;p&gt;&lt;strong&gt;IP Address&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;IP: play.fallofanempire.com&lt;/p&gt;
 &lt;p&gt;Plugin Source Code: &lt;a href=&#34;www.github.com/mixxit/solinia3-core&#34; target=&#34;_blank&#34;&gt;www.github.com/mixxit/solinia3-core&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Getting to Grips with the Tutorial&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Because our server is so different you might need help getting started with the change in the interface. &lt;a href=&#34;https://www.fallofanempire.com/docs/guides/tutorialfortutorial/&#34; target=&#34;_blank&#34;&gt;See our Tutorial for the Tutorial page&lt;/a&gt; for a complete step by step guide&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Code of Conduct&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Please first read our &lt;a href=&#34;../code-of-conduct&#34;&gt;Code of Conduct&lt;/a&gt; documentation to be sure you know the rules involved playing on our server&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Roleplaying Only&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When you first enter the game you will be greeted by two npcs - roleplaying and adventuring. This guide presumes you have followed the adventuring path which requires the mod and uses all of the servers features.&lt;/p&gt;
+&lt;p&gt;If you are just wanting to build and roleplay you can take the roleplaying path instead&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Getting to Grips with the Adventuring Tutorial&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Because our server is so different you might need help getting started with the change in the interface. &lt;a href=&#34;https://www.fallofanempire.com/docs/guides/tutorialfortutorial/&#34; target=&#34;_blank&#34;&gt;See our Tutorial for the Tutorial page&lt;/a&gt; for a complete step by step guide&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Building in our World&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A large portion of our map is reserved for world content and we have several locations earmarked for public builds. You can protect these areas with towny. However, if you would prefer to live somewhere else, please give our staff a shout on discord and we will open up any area of the world so long as it doesnt affect roleplay, npc content or aesthetics&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Roleplaying Setting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;World Setting&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;You are able to see the specific date you are in by typing /today in chat and the name of the day and date will come up. Day and night cycles on Solinia are roughly ¼ that of a Real life one (24hrs) This is very useful for Roleplaying effectively and Remembering Births/Deaths too.&lt;/p&gt;
 &lt;p&gt;The current content setting is Utra, within the The Severed Isles, you can find more information about this region of the world by clicking here: &lt;a href=&#34;https://www.fallofanempire.com/docs/locations/the-severed-isles/utra-sacred/&#34; target=&#34;_blank&#34;&gt;https://www.fallofanempire.com/docs/locations/the-severed-isles/utra-sacred/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;You are also able to see map of the Severed Isles and your location on it, by going onto the website and clicking dynmap &lt;a href=&#34;http://play.fallofanempire.com:8123/&#34; target=&#34;_blank&#34;&gt;http://play.fallofanempire.com:8123/&lt;/a&gt;&lt;/p&gt;
@@ -143,6 +146,8 @@
 &lt;p&gt;&lt;strong&gt;Setting your class&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Professions are specialisations that determine your avatars statistics, abilities and skills. You may only set your profession once and this is done through our introduction questline. You can find out more about professions via the /classinfo command - you can also see their abilities on our page /class [Classname]&lt;/p&gt;
 &lt;p&gt;See &lt;a href=&#34;../../classes&#34;&gt;Classes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Statistics&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;Statistics&#34; target=&#34;_blank&#34;&gt;Statistics&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Earning money&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Fall of an empire uses its own internal economy plugins to allow players to interact with merchant NPC&amp;rsquo;s to sell and buy items. Just like with NPC quests, right click NPC&amp;rsquo;s which are buying or selling items and they will list everything they are interested in trading Click on each item you wish to buy or sell to complete a transaction&lt;/p&gt;
 &lt;p&gt;Killing mobs is a great way to make money if you are just starting off. To check your balance at any time use the command /balance or /bal You can also pay other players using the /pay command with /pay playername amount&lt;/p&gt;
