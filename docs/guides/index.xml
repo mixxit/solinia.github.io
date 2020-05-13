@@ -147,7 +147,7 @@
 &lt;p&gt;Professions are specialisations that determine your avatars statistics, abilities and skills. You may only set your profession once and this is done through our introduction questline. You can find out more about professions via the /classinfo command - you can also see their abilities on our page /class [Classname]&lt;/p&gt;
 &lt;p&gt;See &lt;a href=&#34;../../classes&#34;&gt;Classes&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Statistics&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;See &lt;a href=&#34;Statistics&#34; target=&#34;_blank&#34;&gt;Statistics&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;../Statistics&#34;&gt;Statistics&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Earning money&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Fall of an empire uses its own internal economy plugins to allow players to interact with merchant NPC&amp;rsquo;s to sell and buy items. Just like with NPC quests, right click NPC&amp;rsquo;s which are buying or selling items and they will list everything they are interested in trading Click on each item you wish to buy or sell to complete a transaction&lt;/p&gt;
 &lt;p&gt;Killing mobs is a great way to make money if you are just starting off. To check your balance at any time use the command /balance or /bal You can also pay other players using the /pay command with /pay playername amount&lt;/p&gt;
