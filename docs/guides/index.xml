@@ -170,13 +170,6 @@
 &lt;p&gt;Because our server is so different you might need help getting started with the change in the interface. &lt;a href=&#34;https://www.fallofanempire.com/docs/guides/tutorialfortutorial/&#34; target=&#34;_blank&#34;&gt;See our Tutorial for the Tutorial page&lt;/a&gt; for a complete step by step guide&lt;/p&gt;
 &lt;h2 id=&#34;statistics&#34;&gt;Statistics&lt;/h2&gt;
 &lt;p&gt;See &lt;a href=&#34;../Statistics&#34;&gt;Statistics&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;earning-money-through-adventuring&#34;&gt;Earning money through adventuring&lt;/h2&gt;
-&lt;p&gt;Fall of an empire uses its own internal economy plugins to allow players to interact with merchant NPC&amp;rsquo;s to sell and buy items.&lt;/p&gt;
-&lt;p&gt;Just like with NPC quests, right click NPC&amp;rsquo;s which are buying or selling items and type SHOP and they will list everything they are interested in trading Click on each item you wish to buy or sell to complete a transaction. For example click an item in your inventory at the bottom and click it on the top merchant inventory to sell it. NPCs only buy &amp;lsquo;adventuring items&amp;rsquo; not raw minecraft items (for economic control reasons)&lt;/p&gt;
-&lt;p&gt;Killing mobs is a great way to make money if you are just starting off or alternatively buy items off the /inspiration shop and sell them for $500 each. You can gain inspiration once a day from voting&lt;/p&gt;
-&lt;p&gt;To check your balance at any time use the command /balance or /bal You can also pay other players using the /pay command with /pay playername amount&lt;/p&gt;
-&lt;h2 id=&#34;parties&#34;&gt;Parties&lt;/h2&gt;
-&lt;p&gt;You can also create a group to talk to players in any distance by using the /group command and /g &lt;msg&gt; to send a message Groups also allow you to earn experience with your fellow heroes as well as monitor their hit points You can invite players to your party with /group invite and list all players in your party with /group list&lt;/p&gt;
 &lt;h2 id=&#34;targetting-yourself-for-spells&#34;&gt;Targetting yourself for Spells&lt;/h2&gt;
 &lt;p&gt;To target yourself please see your keybinds, by default this is ctrl - 1&lt;/p&gt;
 &lt;p&gt;You will see your name in the target area on the right&lt;/p&gt;
@@ -213,13 +206,23 @@
 &lt;h2 id=&#34;alternative-advancement&#34;&gt;Alternative Advancement&lt;/h2&gt;
 &lt;p&gt;When a player reaches level 50 they are able to access the /toggleaa command. This will begin siphoning all experience gained into alternative advancement which will reward points that can be spent on new character powers in the /AA command&lt;/p&gt;
 &lt;p&gt;AAs can massively increase a players power far beyond what tradition levels can and allows players to keep progressing their character despite reaching maximum level&lt;/p&gt;
-&lt;h2 id=&#34;travel&#34;&gt;Travel**&lt;/h2&gt;
+&lt;h2 id=&#34;earning-money-through-adventuring&#34;&gt;Earning money through adventuring&lt;/h2&gt;
+&lt;p&gt;Fall of an empire uses its own internal economy plugins to allow players to interact with merchant NPC&amp;rsquo;s to sell and buy items.&lt;/p&gt;
+&lt;p&gt;Just like with NPC quests, right click NPC&amp;rsquo;s which are buying or selling items and type SHOP and they will list everything they are interested in trading Click on each item you wish to buy or sell to complete a transaction. For example click an item in your inventory at the bottom and click it on the top merchant inventory to sell it. NPCs only buy &amp;lsquo;adventuring items&amp;rsquo; not raw minecraft items (for economic control reasons)&lt;/p&gt;
+&lt;p&gt;Killing mobs is a great way to make money if you are just starting off or alternatively buy items off the /inspiration shop and sell them for $500 each. You can gain inspiration once a day from voting&lt;/p&gt;
+&lt;p&gt;To check your balance at any time use the command /balance or /bal You can also pay other players using the /pay command with /pay playername amount&lt;/p&gt;
+&lt;h2 id=&#34;parties&#34;&gt;Parties&lt;/h2&gt;
+&lt;p&gt;You can also create a group to talk to players in any distance by using the /group command and /g &lt;msg&gt; to send a message Groups also allow you to earn experience with your fellow heroes as well as monitor their hit points You can invite players to your party with /group invite and list all players in your party with /group list&lt;/p&gt;
+&lt;h2 id=&#34;travel&#34;&gt;Travel&lt;/h2&gt;
 &lt;p&gt;Getting around isn’t easy, so we recommend using &lt;a href=&#34;http://play.fallofanempire.com:8123&#34; target=&#34;_blank&#34;&gt;http://play.fallofanempire.com:8123&lt;/a&gt; while travelling long distances.&lt;/p&gt;
 &lt;p&gt;At most major cities you can find a Travelling Denko npc which can ride you to another town for a low cost (see their shop)&lt;/p&gt;
 &lt;p&gt;Remember, travel with friends where possible and be sure to grab a saddle from a Horse Vendor and use a steed.&lt;/p&gt;
 &lt;p&gt;If the journey is a long one, stock up on rations so you don&amp;rsquo;t get stuck in the wild with no food or find a friendly druid and wizard who can teleport you to various locations around the world.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Map of the World&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://play.fallofanempire.com:8123&#34; target=&#34;_blank&#34;&gt;http://play.fallofanempire.com:8123&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Docs: Roleplayers Reference</title><link>https://www.fallofanempire.com/docs/guides/roleplayers-reference/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/guides/roleplayers-reference/</guid><description>
+&lt;h2 id=&#34;map-of-the-world&#34;&gt;Map of the World&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://play.fallofanempire.com:8123&#34; target=&#34;_blank&#34;&gt;http://play.fallofanempire.com:8123&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;anything-else&#34;&gt;Anything else&lt;/h3&gt;
+&lt;h2 id=&#34;help&#34;&gt;HELP&lt;/h2&gt;
+&lt;p&gt;Any help, please ask in /ooc &lt;msg&gt; or come by our discord&lt;/p&gt;</description></item><item><title>Docs: Roleplayers Reference</title><link>https://www.fallofanempire.com/docs/guides/roleplayers-reference/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/guides/roleplayers-reference/</guid><description>
 &lt;p&gt;Note: You are expected to check this page often as it will change.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Please see this page for additional advice regarding roleplay that is not covered in our New Players Guide&lt;/p&gt;
