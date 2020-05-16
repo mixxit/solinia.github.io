@@ -919,7 +919,31 @@ Freedom&lt;/p&gt;
 &lt;p&gt;You give &amp;lsquo;Note for the Overseer&amp;rsquo; to Overseer_Teris&lt;/p&gt;
 &lt;p&gt;Overseer_Teris says to soandso &amp;lsquo;a note written in the Farsan Cypher, so you found her then? Give me a moment to read over this&amp;hellip; ah&amp;hellip; oh, oh no! It seems things have taken a turn for the worse. [Rail] needs your [help] urgently at the lighthouse near Morheim. Follow the road east of here, you can&amp;rsquo;t miss that dwarven architecture. Oh and take this for your efforts!&amp;rsquo;&lt;/p&gt;
 &lt;p&gt;You receive a quest flag&lt;/p&gt;
-&lt;p&gt;You receive Honour Blade of Teris&lt;/p&gt;</description></item><item><title>Docs: Windstriker</title><link>https://www.fallofanempire.com/docs/quests/windstriker/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/quests/windstriker/</guid><description>
+&lt;p&gt;You receive Honour Blade of Teris&lt;/p&gt;</description></item><item><title>Docs: The Vipers</title><link>https://www.fallofanempire.com/docs/quests/the-vipers/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/quests/the-vipers/</guid><description>
+&lt;p&gt;
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;The Vipers&lt;/p&gt;
+&lt;/div&gt;
+The Vipers&lt;/p&gt;
+&lt;p&gt;This quest is no longer active&lt;/p&gt;
+&lt;h1 id=&#34;old-quest-script&#34;&gt;Old Quest Script&lt;/h1&gt;
+&lt;p&gt;player receives medal for defeating Warrior Solan&lt;/p&gt;
+&lt;p&gt;player gives Warrior Solan the Medal&lt;/p&gt;
+&lt;p&gt;Warrior Solan says &amp;lsquo;For 43 years I have held the Champion title of Highguard and only one other has ever gotten so close to bring me to my knees. You should be proud of your achievement friend, may you hold the title so long as I. Maybe now I can retire to a life of beer and being a thorn in the side of my beautiful wife&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;player receives quest flag FIND_WARRIOR&lt;/p&gt;
+&lt;p&gt;player says &amp;lsquo;Who is this one?&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Warrior Solan says &amp;lsquo;She was as strong as a bear and as vicious as a viper. Oh how her beauty stunned me, this was long before my wife mind. She carried with her a blade marked with symbols and no shield I have seen could keep it at bay. It wasn&amp;rsquo;t until I wrestled it out of her hands that I was able to pin the lass, oh how angry she was! Hah!&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Player says ‘Hail’&lt;/p&gt;
+&lt;p&gt;Murshir_Vah says ‘A fools errand to attempt delivery with the Vipers stranglehold on the route to the elven capital’&lt;/p&gt;
+&lt;p&gt;Murshir_Vah says ‘The Vipers have been raiding our caravans night and day. It’s got so bad even the Jadeclaws have had to personally escort some of our most important shipments. But this leaves us with a weaker defence at home. Sometimes I wonder if this is all part of Cinthias plan. What are a few wagons full of food worth to her compared to a defensible port city?’&lt;/p&gt;
+&lt;p&gt;Player says ‘Who are the Vipers’&lt;/p&gt;
+&lt;p&gt;Murshir_Vah says ‘Cinthia is the leader of The Vipers; they say she is undefeatable in combat. While ever she has her eye set on our home our trade and safety will be compromised. Maybe it you could clear up the road it might send a message to her that we will not be pushed around so easily’&lt;/p&gt;
+&lt;p&gt;Player gives ‘Viper Head’ to Murshir_Vah&lt;/p&gt;
+&lt;p&gt;Murshir_Vah says ‘So you despatched the raiders! Good, here is a reward for your efforts friend! Should you wish to aid us again maybe we could strike back at Cinthia and her ragtag raiders at the very heart of her operations’&lt;/p&gt;
+&lt;p&gt;Player says ‘who is Cinthia’ to Murshir_Vah&lt;/p&gt;
+&lt;p&gt;Murshir_Vah says ‘It is said Cinthia has an underground outpost to the north of here in a Hidden cove, find your way to her Stronghold, slay her troops and bring back the supplies she dare steal from us’&lt;/p&gt;
+&lt;p&gt;Player gives ‘Stolen ShaSun Supplies’ to Murshir_Vah&lt;/p&gt;
+&lt;p&gt;Murshir_Vah says ‘You got the supplies! Oh thank you here take this, my days of adventure are but a dream!’&lt;/p&gt;</description></item><item><title>Docs: Windstriker</title><link>https://www.fallofanempire.com/docs/quests/windstriker/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.fallofanempire.com/docs/quests/windstriker/</guid><description>
 &lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
 &lt;p&gt;Windstriker&lt;/p&gt;
 &lt;/div&gt;
