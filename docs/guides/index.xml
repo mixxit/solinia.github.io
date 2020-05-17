@@ -142,7 +142,23 @@
 &lt;h2 id=&#34;finding-players&#34;&gt;Finding Players&lt;/h2&gt;
 &lt;p&gt;You can also see all players online with the command /who all&lt;/p&gt;
 &lt;h2 id=&#34;making-money-without-adventuring&#34;&gt;Making money without adventuring&lt;/h2&gt;
-&lt;p&gt;With inspiraton points you can buy things from the /inspiration shop - The mana items sell for $500 each! So you can make enough to cover your daily town costs and keep yourself protected. Youc an also buy things from various shops&lt;/p&gt;
+&lt;p&gt;You can sell vanilla minecraft items at any vendor of these types:&lt;/p&gt;
+&lt;p&gt;COAL_ORE
+GOLD_ORE
+GOLD_INGOT
+GOLD_BLOCK
+IRON_INGOT
+IRON_ORE
+IRON_BLOCK
+DIAMOND_ORE
+DIAMOND
+DIAMOND_BLOCK
+LAPIS_ORE
+LAPIS_BLOCK
+REDSTONE_ORE
+REDSTONE
+REDSTONE_BLOCK&lt;/p&gt;
+&lt;p&gt;With inspiraton points you can also buy things from the /inspiration shop which you can sell for money! See the /inspiration command and its subcommands&lt;/p&gt;
 &lt;h2 id=&#34;protecting-an-area&#34;&gt;Protecting an area&lt;/h2&gt;
 &lt;p&gt;You cannot build in the town area of the npcs, but walk enough out and you will find the rest of the island is available for use (that other players havent claimed)&lt;/p&gt;
 &lt;p&gt;You can build and protect an area using towny. Towny requires money which you can either get from other players, take up the Adventuring Path or simple vote for our server in /inspiration sites.&lt;/p&gt;
