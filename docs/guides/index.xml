@@ -145,6 +145,8 @@ REDSTONE_BLOCK&lt;/p&gt;
 &lt;p&gt;The easiest way to earn starter gear is via the medallion quests found outside most taverns in npc cities&lt;/p&gt;
 &lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
 &lt;p&gt;Each class provides a number of Skills for your character to learn using /skills Skills range from language to magic and melee skills and affect how various mechanics work in Fall of an Empire. These are generally damage modifiers, resists and other passive &amp;lsquo;always on&amp;rsquo; effects. Skills have a limited value that generally is determined by your level and for resists can be raised by certain special items.&lt;/p&gt;
+&lt;h2 id=&#34;racial-passives&#34;&gt;Racial Passives&lt;/h2&gt;
+&lt;p&gt;Races gain bonuses to passive abilities, see each race page for more details. To toggle off racial passives use /togglepassive&lt;/p&gt;
 &lt;h2 id=&#34;abilities-and-spells&#34;&gt;Abilities and Spells&lt;/h2&gt;
 &lt;p&gt;Abilities and Spells are items that can be found in game that look like enchanted books. There are hundreds of abilities that have all manner of effects from beneficial to destructive or even utility. Abilities can be purchased from most Profession Guilds in large NPC cities, special abilities can also be found on monsters throughout the world and hidden vendors scattered around Solinia.&lt;/p&gt;
 &lt;p&gt;To use an ability you will need to drop the spell book into your spell button in the top right of your inventory. Once it is in your spellbook you can open the spellbook with the K keybind.&lt;/p&gt;
