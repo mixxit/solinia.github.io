@@ -1,6 +1,6 @@
 $(function () {
   const json_url =
-    "https://www.fallofanempire.com/data/sample.json";
+    "https://www.fallofanempire.com/data/sample.htm";
   const form_url = "#";
   const formBox = document.getElementById("renderFormBox");
   let filter_data;
@@ -169,6 +169,7 @@ let values = Array.from(document.querySelectorAll(".field_value")).map(
   $.ajax({
     url: json_url,
     dataType: "jsonp",
+    jsonp : false,
     crossDomin: true,
     success: function (data) {
       data = data.data;
