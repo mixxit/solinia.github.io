@@ -107,17 +107,17 @@ let hoverLinks = document.querySelectorAll("a.hoverToLink");
               ">=": "$gte",
               "<=": "$lte",
               "=": "$eq",
-              "regex": "$regex",
+              "regex": "$regex"
             };
             urlParam +=
               "&filter={'" +
               keys[i] +
               "':{'" +
               test[criteria[i]] +
-              "':" +
+              "':'" +
               values[i] +
-              "}}";
-          }
+              "'}}";
+          
         }
       }
       xhr.open(
@@ -147,15 +147,29 @@ let values = Array.from(document.querySelectorAll(".field_value")).map(
     document.querySelector("#submitBtn").disabled = false;
     let filterListBox = document.querySelector("#filterListBox");
     filterListBox.innerHTML = "";
-    filter_data.forEach((item) => {
-      var url = "https://www.fallofanempire.com/data/item.htm?itemid="+item["id"];
-      filterListBox.innerHTML += `<a href="${url}">${item["id"]}</a> - ${item["displayname"]} ${item[values[0]]} <a class="hoverToLink" href="${url}">🔎</a><br>`;
-    });
-
-    if (filter_data.length === 0) {
-      filterListBox.innerHTML = "No results found";
+    if (filter_data === undefined || filter_data === null || filter_data == null || filter_data === undefined || filter_data.length === 0 || filter_data.exception === "org.bson.json.JsonParseException") {
+console.log(filter_data);
+      filterListBox.innerHTML = "No results found [See console for more info]";
     } else {
-    filterListBox.innerHTML += `First 1000 results displayed`;
+console.log(filter_data);
+      filter_data.forEach((item) => {
+      var url = "https://www.fallofanempire.com/data/item.htm?itemid="+item["id"];
+
+let keys = Array.from(document.querySelectorAll(".field_name")).map(
+        (el) => el.value
+      );
+
+
+var extraData = "";
+for (let i = 0; i < keys.length; i++) {
+  if (keys[i] !== "null") {
+    extraData += "<b>" + keys[i] + ":</b> " + item[keys[i]]
+  }
+}
+
+      filterListBox.innerHTML += `<a href="${url}">${item["id"]} - ${item["displayname"]}</a> | ${extraData} <a class="hoverToLink" href="${url}">🔎      </a><br>`;
+    });
+    filterListBox.innerHTML += `Limit of 1000 results on searches`;
     }
 
   }
