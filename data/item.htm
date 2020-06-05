@@ -19,7 +19,7 @@
 <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script>
     const orange = t => `<span class="orange">${t}</span>`;
-    const api = 'https://play.fallofanempire.com:44225';
+    const api = 'https://data.fallofanempire.com';
     const id = window.location.href.toLowerCase().split('itemid=').pop();
     const url = `${api}/items?pagesize=1&np&filter={'id':{'$eq':`+id+`}}`;
 
