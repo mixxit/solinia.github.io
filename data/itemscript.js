@@ -67,6 +67,7 @@ let hoverLinks = document.querySelectorAll("a.hoverToLink");
       selectCriteria.innerHTML += '<option value=">=">>=</option>';
       selectCriteria.innerHTML += '<option value="<="><=</option>';
       selectCriteria.innerHTML += '<option value="=">=</option>';
+      selectCriteria.innerHTML += '<option value="regex">regex</option>';
       form.append(selectCriteria);
 
       let input = document.createElement("input");
@@ -102,18 +103,11 @@ let hoverLinks = document.querySelectorAll("a.hoverToLink");
       let urlParam = "";
       for (let i = 0; i < keys.length; i++) {
         if (values[i] !== "" && keys[i] !== "null") {
-          if (typeof dataType_values[keys[i]] === "string") {
-            urlParam +=
-              "&filter={'" +
-              keys[i] +
-              "':{'$regex':'(?i)^" +
-              values[i] +
-              ".*'}}";
-          } else {
             let test = {
               ">=": "$gte",
               "<=": "$lte",
               "=": "$eq",
+              "regex": "$regex",
             };
             urlParam +=
               "&filter={'" +
