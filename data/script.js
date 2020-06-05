@@ -1,6 +1,5 @@
 $(function () {
-  const json_url =
-    "https://www.fallofanempire.com/data/sample.htm";
+  const sample = "eyJpZCI6MSwicHJpbWFyeVVVSUQiOiJlYjdiY2E1MC02M2U2LTQ2MmYtYmE3MC1hOGQ1M2VhMmJmOWQiLCJzZWNvbmRhcnlVVUlEIjoiMjNlOGI0MmQtNjY0MC00ODA5LTg3NDEtMThmNDQwN2FlMGZlIiwiZGlzcGxheW5hbWUiOiJJUk9OX1NXT1JEIiwiYmFzZW5hbWUiOiJJUk9OX1NXT1JEIiwiYWJpbGl0eWlkIjowLCJzdHJlbmd0aCI6MCwic3RhbWluYSI6MCwiYWdpbGl0eSI6MCwiZGV4dGVyaXR5IjowLCJwcm9jUmF0ZSI6MCwicGxhY2VhYmxlIjpmYWxzZSwiaW50ZWxsaWdlbmNlIjowLCJ3aXNkb20iOjAsImNoYXJpc21hIjowLCJhbGxvd2VkQ2xhc3NOYW1lcyI6W10sImFsbG93ZWRSYWNlTmFtZXMiOltdLCJxdWVzdGl0ZW0iOmZhbHNlLCJkYW1hZ2UiOjYsIndlYXBvbmFiaWxpdHlpZCI6MCwiYXR0YWNrc3BlZWQiOjAsImVuY2hhbnRtZW50MXZhbCI6MCwiZW5jaGFudG1lbnQydmFsIjowLCJlbmNoYW50bWVudDN2YWwiOjAsImVuY2hhbnRtZW50NHZhbCI6MCwiaHByZWdlbiI6MCwibXByZWdlbiI6MCwid29ydGgiOjE1LCJjb3JlaXRlbSI6ZmFsc2UsImZpcmVSZXNpc3QiOjAsImNvbGRSZXNpc3QiOjAsIm1hZ2ljUmVzaXN0IjowLCJwb2lzb25SZXNpc3QiOjAsImRpc2Vhc2VSZXNpc3QiOjAsIm1hZ2ljIjpmYWxzZSwiZWxlbWVudGFsRGFtYWdlVHlwZSI6MCwiZWxlbWVudGFsRGFtYWdlQW1vdW50IjowLCJzcGVsbHNjcm9sbCI6ZmFsc2UsImNvbG9yIjowLCJkeWUiOjAsImlzVGVtcG9yYXJ5IjpmYWxzZSwiaXNDb25zdW1hYmxlIjpmYWxzZSwiY29uc3VtYWJsZVJlcXVpcmVRdWVzdEZsYWciOiIiLCJjb25zdW1hYmxlUmVxdWlyZU5vdFF1ZXN0RmxhZyI6IiIsImJhbmVVbmRlYWQiOjAsImlzQXVnbWVudGF0aW9uIjpmYWxzZSwiYXVnbWVudGF0aW9uRml0c1Nsb3RUeXBlIjoiTk9ORSIsImRpc2NvdmVyZXIiOiJNaXh4aXRfTkRhbmNlIiwibWluTGV2ZWwiOjAsImFjIjowLCJocCI6MCwibWFuYSI6MCwiaXNFeHBlcmllbmNlQm9udXMiOmZhbHNlLCJza2lsbE1vZFR5cGUiOiJOb25lIiwic2tpbGxNb2RWYWx1ZSI6MCwicmVhZ2VudCI6ZmFsc2UsImxhbmd1YWdlUHJpbWVyIjoiIiwiZm9jdXNFZmZlY3RJZCI6MCwid2VhcG9uRGVsYXkiOjMwLCJsZWF0aGVyUmdiRGVjaW1hbCI6LTEsInJlcXVpcmVkV2VhcG9uU2tpbGxUeXBlIjoiIiwiYXJ0aWZhY3QiOmZhbHNlLCJhcnRpZmFjdEZvdW5kIjpmYWxzZSwic2tpbGxNb2RUeXBlMiI6Ik5vbmUiLCJza2lsbE1vZFZhbHVlMiI6MCwic2tpbGxNb2RUeXBlMyI6Ik5vbmUiLCJza2lsbE1vZFZhbHVlMyI6MCwic2tpbGxNb2RUeXBlNCI6Ik5vbmUiLCJza2lsbE1vZFZhbHVlNCI6MCwiaWRlbnRpZnlNZXNzYWdlIjoiIiwiYmFuZGFnZSI6ZmFsc2UsImVxdWlwbWVudFNsb3QiOiJOb25lIiwiYm9va0F1dGhvciI6IiIsImJvb2tQYWdlcyI6W10sIm5ldmVyRHJvcCI6ZmFsc2UsImxhc3RVcGRhdGVkVGltZSI6IkFwciAyMCwgMjAyMCA1OjE3OjQzIFBNIiwiaXRlbVR5cGUiOiJPbmVIYW5kU2xhc2hpbmciLCJRdWVzdElkIjowLCJhcHBlYXJhbmNlSWQiOjAsImJhbmVEbWdCb2R5IjowLCJiYW5lRG1nUmFjZSI6MCwiYmFuZURtZ0JvZHlBbW91bnQiOjAsImJhbmVEbWdSYWNlQW1vdW50IjowfQ==";
   const form_url = "#";
   const formBox = document.getElementById("renderFormBox");
   let filter_data;
@@ -29,12 +28,12 @@ let hoverLinks = document.querySelectorAll("a.hoverToLink");
 
     }
   });
-  function renderForm(data, action, method = "POST") {
+  function renderForm(b64, action, method = "POST") {
     let form = document.createElement("form");
     form.action = action;
     form.method = method;
 
-    var data = JSON.parse(atob(data.content));
+    var data = JSON.parse(atob(b64));
     dataType_values = data;
     var optionData = "<option value=null default>null</option>";
 
@@ -166,16 +165,7 @@ let values = Array.from(document.querySelectorAll(".field_value")).map(
     }
 
   }
-  $.ajax({
-    url: json_url,
-    dataType: "jsonp",
-    jsonp : false,
-    crossDomin: true,
-    success: function (data) {
-      data = data.data;
-      renderForm(data, form_url, "POST");
-    },
-  });
+  renderForm(sample, form_url, "POST");
 });
 
 jQuery.base64 = (function ($) {
