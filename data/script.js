@@ -128,7 +128,7 @@ let hoverLinks = document.querySelectorAll("a.hoverToLink");
       }
       xhr.open(
         "GET",
-        "http://play.fallofanempire.com:44225/items?pagesize=1000&np" + urlParam
+        "https://play.fallofanempire.com:44225/items?pagesize=1000&np" + urlParam
       );
       xhr.setRequestHeader(
         "Authorization",
