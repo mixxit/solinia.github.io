@@ -389,6 +389,7 @@ Note you will see the casting bar on the right slowly casting the spell
 &lt;/div&gt;
 &lt;h1 id=&#34;open-all-sites-at-once-firefox&#34;&gt;Open all sites at once [Firefox]&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;#&#34; onclick=&#34;
+window.open(&#39;http://www.minecraftroleplayservers.com/server-fall-of-an-empire.15&#39;);
 window.open(&#39;https://www.planetminecraft.com/server/fall-of-an-empire-heavyrp/vote/&#39;);
 window.open(&#39;https://minecraft-mp.com/server/118059/vote/&#39;);
 window.open(&#39;https://minecraftlist.org/vote/5962&#39;);
@@ -400,6 +401,7 @@ window.open(&#39;https://minebrowse.com/server/364&#39;);
 window.open(&#39;https://topminecraftservers.org/vote/11735&#39;);
 &#34;&gt;Click here to open all the pages below, at once&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;individual-sites&#34;&gt;Individual Sites&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.minecraftroleplayservers.com/server-fall-of-an-empire.15&#34; target=&#34;_blank&#34;&gt;http://www.minecraftroleplayservers.com/server-fall-of-an-empire.15&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.planetminecraft.com/server/fall-of-an-empire-heavyrp/vote/&#34; target=&#34;_blank&#34;&gt;https://www.planetminecraft.com/server/fall-of-an-empire-heavyrp/vote/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://topminecraftservers.org/vote/11735&#34; target=&#34;_blank&#34;&gt;https://topminecraftservers.org/vote/11735&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://minecraft-mp.com/server/118059/vote/&#34; target=&#34;_blank&#34;&gt;https://minecraft-mp.com/server/118059/vote/&lt;/a&gt;&lt;/p&gt;
